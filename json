@@ -1,6 +1,7 @@
 [{
 		"id": 1,
 		"name": "Glacier Bay",
+		"StateIcon": "",
 		"ImageUrlOne": "",
 		"ImageUrlTwo": "",
 		"ImageUrlThree": "",
@@ -16,6 +17,7 @@
 	{
 		"id": 2,
 		"name": "Katmai",
+		"StateIcon": "https://raw.githubusercontent.com/GiorgioMotorola/ParksJson/main/img/Alaska/icon.jpg",
 		"ImageUrlOne": "https://raw.githubusercontent.com/GiorgioMotorola/ParksJson/main/img/Alaska/Katmai/Katmai_Crater_1980.jpg",
 		"ImageUrlTwo": "https://raw.githubusercontent.com/GiorgioMotorola/ParksJson/main/img/Alaska/Katmai/Destinations_ParksPublicLands_Katmai%20National%20Park_Hero_1.jpg",
 		"ImageUrlThree": "https://raw.githubusercontent.com/GiorgioMotorola/ParksJson/main/img/Alaska/Katmai/Jaymi-Heimbuch-IMG_3843-1-824x550.jpg",
