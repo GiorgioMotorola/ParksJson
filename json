@@ -10,7 +10,8 @@
 		"Coordinates": "58.50°N 137.00°W",
 		"DateEstAsPark": "December 2, 1980",
 		"Area": "3,223,383.43 acres",
-		"Description": "Glacier Bay contains tidewater glaciers, mountains, fjords, and a temperate rainforest, and is home to large populations of grizzly bears, mountain goats, whales, seals, and eagles. When discovered in 1794 by George Vancouver, the entire bay was covered by ice, but the glaciers have since receded more than 65 miles (105 km).[54] (WHS)[55] (BR)[56]"
+		"Description": "Glacier Bay contains tidewater glaciers, mountains, fjords, and a temperate rainforest, and is home to large populations of grizzly bears, mountain goats, whales, seals, and eagles. When discovered in 1794 by George Vancouver, the entire bay was covered by ice, but the glaciers have since receded more than 65 miles (105 km).[54] (WHS)[55] (BR)[56]",
+		"Geography": ""
 
 	},
 
@@ -26,7 +27,11 @@
 		"Coordinates": "58.50°N 155.00°W",
 		"DateEstAsPark": "December 2, 1980",
 		"Area": "3,674,529.33 acres",
-		"Description": "This park on the Alaska Peninsula protects the Valley of Ten Thousand Smokes, an ash flow formed by the 1912 eruption of Novarupta, and the stratovolcano Mount Katmai. Over 2,000 grizzly bears come here each year to catch spawning salmon. Other wildlife includes caribou, wolves, moose, and wolverines."
+		"Description": "This park on the Alaska Peninsula protects the Valley of Ten Thousand Smokes, an ash flow formed by the 1912 eruption of Novarupta, and the stratovolcano Mount Katmai. Over 2,000 grizzly bears come here each year to catch spawning salmon. Other wildlife includes caribou, wolves, moose, and wolverines.",
+		"Geography": "Katmai occupies the Pacific Ocean side of the Alaska Peninsula, opposite Kodiak Island on the Shelikof Strait. The park's chief features are its coast, the Aleutian Range with a chain of fifteen volcanic mountains across the coastal southeastern part of the park, and a series of large lakes in the flatter western part of the park. The closest significant town to the park is King Salmon, where the park's headquarters is located, about 5 miles (8.0 km) down the Naknek River from the park entrance. The Alaska Peninsula Highway connects Naknek Lake near the entrance to King Salmon, continuing to the mouth of the river at Naknek. The road is not connected to the Alaska road system. Access to the park's interior is by boat on Naknek Lake. Another road runs from Brooks Camp to Three Forks, which overlooks the Valley of Ten Thousand Smokes. The 497-mile (800 km) long coastline is deeply indented, running from the entrance to the Cook Inlet at Kamishak Bay south to Cape Kubugakli. The mountains run from southwest to northeast, about 15 miles (24 km) inland. 
+		The park includes McNeil River State Game Sanctuary and Refuge on Kamishak Bay. The Alagnak River, designated a wild river, originates within the preserve at Kukaklek Lake. The Naknek River, which empties into Bristol Bay, originates within the park. The park adjoins Becharof National Wildlife Refuge to the south. Of the park and preserve's acres, 3,922,529 acres (1,587,391 ha) are in the national park where all sport and subsistence hunting is prohibited. 418,548 acres (169,380 ha) are preserve lands, where both sport and subsistence hunting are permitted. The most commonly hunted species in the preserve includes the brown bear, which has led to some problems about bear hunting due to small preserve population sizes and stalking bears to close limits.
+		The foundation rocks on the Alaska Peninsula are divided by the Bruin Bay Fault into fossiliferous sedimentary rocks of Jurassic and Cretaceous age to the east and metamorphic and igneous rocks to the west. The granite Aleutian Range batholith has intruded through these rocks. The majority of the higher mountains in the park are of volcanic origin. The park has been extensively altered by glaciation, both in the high lands where the mountains have been sculpted by glaciers, and in the lowlands where lakes have been excavated. Outwash plains and terminal moraines are also featured in the park. Soil types vary from rock or volcanic ash of vary depth to deep, wet soils overlain with peat. Although permafrost exists at higher elevations, it is not present in the lowlands.
+		Two physiographic provinces cover the park. The Aleutian Range province is composed of the Shelikof Strait coastline, about 10 miles (16 km) deep along the coast, the Aleutian Mountain zone, and the lake, or Hudsonian zone. Farther west the Nushagak-Bristol Bay Lowlands province is separated from the Aleutian zone by the Bruin Bay Fault, occupying a small corner of the park."
 	},
 
 	{
@@ -40,7 +45,8 @@
 		"Coordinates": "59.92°N 149.65°W",
 		"DateEstAsPark": "December 2, 1980",
 		"Area": "669,650.05 acres",
-		"Description": "Near Seward on the Kenai Peninsula, this park protects the Harding Icefield and at least 38 glaciers and fjords stemming from it. The only area accessible to the public by road is the rapidly shrinking Exit Glacier. Boat and kayak tours offer views of tidewater glaciers, whales, sea lions, and marine birds.[77]"
+		"Description": "Near Seward on the Kenai Peninsula, this park protects the Harding Icefield and at least 38 glaciers and fjords stemming from it. The only area accessible to the public by road is the rapidly shrinking Exit Glacier. Boat and kayak tours offer views of tidewater glaciers, whales, sea lions, and marine birds.[77]",
+		"Geography": ""
 	},
 
 	{
@@ -54,7 +60,8 @@
 		"Coordinates": "60.97°N 153.42°W",
 		"DateEstAsPark": "December 2, 1980",
 		"Area": "2,619,816.49 acres",
-		"Description": "The region around Lake Clark features four active volcanoes, including Mount Redoubt, as well as an abundance of rivers, glaciers, and waterfalls. Temperate rainforests, a tundra plateau, and three mountain ranges complete the landscape.[84]"
+		"Description": "The region around Lake Clark features four active volcanoes, including Mount Redoubt, as well as an abundance of rivers, glaciers, and waterfalls. Temperate rainforests, a tundra plateau, and three mountain ranges complete the landscape.[84]",
+		"Geography": ""
 	},
 
 	{
@@ -68,7 +75,8 @@
 		"Coordinates": "61.00°N 142.00°W",
 		"DateEstAsPark": "December 2, 1980",
 		"Area": "8,323,146.48 acres",
-		"Description": "The largest national park in the system protects the convergence of the Alaska, Chugach, Wrangell, and Saint Elias Ranges, which include many of the continent's tallest mountains and volcanoes, including the 18,008-foot Mount Saint Elias. More than a quarter of the park is covered with glaciers, including the tidewater Hubbard Glacier, piedmont Malaspina Glacier, and valley Nabesna Glacier.[117] (WHS)[55]"
+		"Description": "The largest national park in the system protects the convergence of the Alaska, Chugach, Wrangell, and Saint Elias Ranges, which include many of the continent's tallest mountains and volcanoes, including the 18,008-foot Mount Saint Elias. More than a quarter of the park is covered with glaciers, including the tidewater Hubbard Glacier, piedmont Malaspina Glacier, and valley Nabesna Glacier.[117] (WHS)[55]",
+		"Geography": ""
 	},
 
 	{
@@ -82,7 +90,8 @@
 		"Coordinates": "63.33°N 150.50°W",
 		"DateEstAsPark": "February 26, 1917",
 		"Area": "4,740,911.16 acres",
-		"Description": "Centered on Denali, the tallest and most prominent mountain in North America, the park is serviced by a single road leading to Wonder Lake, most of which can only be accessed via scheduled tour buses. Denali and other peaks of the Alaska Range are covered with long glaciers and boreal forest. Wildlife includes grizzly bears, Dall sheep, moose, caribou, and wolves.[41] (BR)[42]"
+		"Description": "Centered on Denali, the tallest and most prominent mountain in North America, the park is serviced by a single road leading to Wonder Lake, most of which can only be accessed via scheduled tour buses. Denali and other peaks of the Alaska Range are covered with long glaciers and boreal forest. Wildlife includes grizzly bears, Dall sheep, moose, caribou, and wolves.[41] (BR)[42]",
+		"Geography": ""
 	},
 
 
@@ -97,7 +106,8 @@
 		"Coordinates": "67.55°N 159.28°W",
 		"DateEstAsPark": "December 2, 1980",
 		"Area": "1,750,716.16 acres",
-		"Description": "Kobuk Valley protects 61 miles (98 km) of the Kobuk River and three regions of sand dunes. Created by glaciers, the Great Kobuk, Little Kobuk, and Hunt River Sand Dunes can reach 100 feet (30 m) high and 100 °F (38 °C), and they are the largest dunes in the Arctic. Twice a year, half a million caribou migrate through the dunes and across river bluffs that expose well-preserved ice age fossils.[83]"
+		"Description": "Kobuk Valley protects 61 miles (98 km) of the Kobuk River and three regions of sand dunes. Created by glaciers, the Great Kobuk, Little Kobuk, and Hunt River Sand Dunes can reach 100 feet (30 m) high and 100 °F (38 °C), and they are the largest dunes in the Arctic. Twice a year, half a million caribou migrate through the dunes and across river bluffs that expose well-preserved ice age fossils.[83]",
+		"Geography": ""
 	},
 
 	{
@@ -111,6 +121,7 @@
 		"Coordinates": "67.78°N 153.30°W",
 		"DateEstAsPark": "December 2, 1980",
 		"Area": "7,523,897.45 acres",
-		"Description": "The country's northernmost park protects an expanse of pure wilderness in Alaska's Brooks Range and has no park facilities. The land is home to Alaska Natives who have relied on the land and caribou for 11,000 years.[47]"
+		"Description": "The country's northernmost park protects an expanse of pure wilderness in Alaska's Brooks Range and has no park facilities. The land is home to Alaska Natives who have relied on the land and caribou for 11,000 years.[47]",
+		"Geography": ""
 	}
 ]
