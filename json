@@ -186,7 +186,7 @@
 		"id": 13,
 		"name": "Mammoth Cave National Park",
 		"ImageUrlOne": "https://raw.githubusercontent.com/GiorgioMotorola/ParksJson/main/img/Kentucky/mammoth.png",
-		"ImageUrlTwo": "https://github.com/GiorgioMotorola/ParksJson/blob/main/img/Kentucky/IMG_6473.jpg",
+		"ImageUrlTwo": "https://raw.githubusercontent.com/GiorgioMotorola/ParksJson/main/img/Kentucky/IMG_6473.jpg",
 		"ImageUrlThree": "https://raw.githubusercontent.com/GiorgioMotorola/ParksJson/main/img/Kentucky/mamcccc.jpg",
 		"ParkMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d101702.56708716053!2d-86.2231673082536!3d37.195354747628095!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8866024d94c97b57%3A0x1f88b3a06080a3c0!2sMammoth%20Cave%20National%20Park!5e0!3m2!1sen!2sus!4v1683583804810!5m2!1sen!2sus",
 		"State": "Kentucky",
